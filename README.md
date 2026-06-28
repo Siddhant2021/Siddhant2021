@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a **Quantitative Research & AI Engineer** at Axxela Research & Analytics (partnered with Barclays), building production-scale AI systems, RAG platforms, and quantitative trading strategies. I graduated from **IIT Kanpur** in Mathematics & Scientific Computing (CPI: 8.1/10).<br><br>
+I'm a **Quantitative Research & AI Engineer** at Axxela Research & Analytics (partnered with Barclays), building production-scale AI systems, RAG platforms, and quantitative trading strategies. I graduated from **IIT Kanpur** in Mathematics & Scientific Computing .<br><br>
 I live at the intersection of *rigorous mathematics*, *cutting-edge AI*, and *financial markets* — building things that are both technically deep and practically impactful.
 
 ---
@@ -18,7 +18,7 @@ I live at the intersection of *rigorous mathematics*, *cutting-edge AI*, and *fi
 - Exceeded profits of **$30,000 in intraday trades**; ranked 1st among all interns in overall profitability. Received a Pre-Placement Offer.
 
 **Software Developer (Intern)** — *Vas Ventures, New Delhi* *(Jun '23 – Jul '23)*
-- Built a web platform for dynamic stock data visualization integrating **Swiss Ephemeris** and a **Spring Boot** server.
+- Built a web platform for dynamic stock data visualization, integrating **Swiss Ephemeris** and a **Spring Boot** server.
 - Used **J.P. Morgan Chase Perspective** library for real-time stock trend visualizations via WebSocket.
 
 **Business Analyst (Intern)** — *Mobitra, New Delhi* *(Jul '22 – Aug '22)*
