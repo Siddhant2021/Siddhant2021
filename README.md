@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a **Quantitative Research & AI Engineer** at Axxela Research & Analytics (partnered with Barclays), building production-scale AI systems, RAG platforms, and quantitative trading strategies. I graduated from **IIT Kanpur** in Mathematics & Scientific Computing .<br><br>
+I'm a **Quantitative Research & AI Engineer** at Barclays, building production-scale AI systems, RAG platforms, and quantitative trading strategies. I graduated from **IIT Kanpur** in Mathematics & Scientific Computing .<br><br>
 I live at the intersection of *rigorous mathematics*, *cutting-edge AI*, and *financial markets* — building things that are both technically deep and practically impactful.
 
 ---
